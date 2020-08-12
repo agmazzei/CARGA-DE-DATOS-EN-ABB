@@ -1,0 +1,6 @@
+Carlos
+E;CaballoVolador;120;Pegazus...
+P;Pegazus1;1235;S
+E;PokemonVolador;170;Al infinito y mas alla...
+P;Volador1;20000;N
+

@@ -1,0 +1,15 @@
+26;Kachu;76;MEGA-Raichu;Los Mega-Raichus tambien son ratones... !Cuantos ratones!
+8;Trotu;9;Blastoise;Los Blastoise tienen dos cañones de agua en la espalda
+60;CarlosAtaud;61;MegaMenem;Viaja a la mitad del tiempo a la estratosfera
+35;Cleffinha;36;Clefable;Los Clefable tambien son rosados... 
+25;Pikachanga;26;Raichu;Los Raichus tambien son ratones... !Cuantos ratones!
+12;Danoninoss;13;MegaButter;lololo
+60;CarlosSaud;61;MegaMenem;Viaja a la mitad del tiempo a la estratosfera
+25;Pikante;26;Raichu;Los Raichus tambien son ratones... !Cuantos ratones!
+25;Pikachanga;26;Raichu;Los Raichus tambien son ratones... !Cuantos ratones!
+46;Paras;47;Parralengueles;Paras es un bichito...
+60;Carlos;61;MegaMenem;Viaja a la mitad del tiempo a la estratosfera
+
+
+
+

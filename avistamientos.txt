@@ -1,0 +1,14 @@
+46;Paras;Paras es un bichito...;Porross;1235;S
+25;Pikachu;Pikachu es un raton...;Piketss;20000;N
+12;Butterfree;Butterfree es una mariposa...;Danoninoss;2300;S
+25;Pikachu;Pikachu es un raton...;KachuYPachuss;1500;S
+19;Rattata;Rattata es otra rata...;LordVoldemortss;3000;S
+35;Clefairy;Clefairy es muy rosa...;Cleffinha;1300;S  
+8;Wartortle;Wartortle es la tortuga...;Trotu;1200;S
+25;Pikachu;Pikachu es un raton...;Pikante;1000;S
+25;Pikachu;Pikachu es un raton...;Pikachanga;156;N
+60;Menem;Esta especie va de buenos aires a japon en 1 hora;Carlos;25;S
+60;Menem;Esta especie va de buenos aires a japon en 1 hora;CarlosSaud;9;S
+60;Menem;Esta especie va de buenos aires a japon en 1 hora;CarlosAtaud;79;S
+60;Menem;Esta especie va de buenos aires a japon en 1 hora;CarlosCajon;44;S
+
